@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [bunkWell](https://play.google.com/store/apps/details?id=com.appsack.bunkwell)
 
-- 🌱 I’m currently learning **Flutter,ADA**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on [#](#)
 
