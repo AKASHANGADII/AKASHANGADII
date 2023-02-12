@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashangadii" alt="akashangadii" /></a> </p>
 
-- 🔭 I’m currently working on [bunkWell](https://play.google.com/store/apps/details?id=com.appsack.bunkwell)
+- 🔭 I’m currently working on Freelance projects 
 
 - 🌱 I’m currently learning **Machine Learning**
 
